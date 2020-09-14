@@ -1,0 +1,68 @@
+/* === Fabriga === */
+
+@font-face {
+    font-family: 'Fabriga';
+    src: url('../fonts/Fabriga/Fabriga-Regular.eot');
+    src: url('../fonts/Fabriga/Fabriga-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Fabriga/Fabriga-Regular.woff2') format('woff2'),
+        url('../fonts/Fabriga/Fabriga-Regular.woff') format('woff'),
+        url('../fonts/Fabriga/Fabriga-Regular.ttf') format('truetype'),
+        url('../fonts/Fabriga/Fabriga-Regular.svg#Fabriga-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fabriga';
+    src: url('../fonts/Fabriga/Fabriga-Bold.eot');
+    src: url('../fonts/Fabriga/Fabriga-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Fabriga/Fabriga-Bold.woff2') format('woff2'),
+        url('../fonts/Fabriga/Fabriga-Bold.woff') format('woff'),
+        url('../fonts/Fabriga/Fabriga-Bold.ttf') format('truetype'),
+        url('../fonts/Fabriga/Fabriga-Bold.svg#Fabriga-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fabriga';
+    src: url('../fonts/Fabriga/FabrigaLight-Regular.eot');
+    src: url('../fonts/Fabriga/FabrigaLight-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Fabriga/FabrigaLight-Regular.woff2') format('woff2'),
+        url('../fonts/Fabriga/FabrigaLight-Regular.woff') format('woff'),
+        url('../fonts/Fabriga/FabrigaLight-Regular.ttf') format('truetype'),
+        url('../fonts/Fabriga/FabrigaLight-Regular.svg#FabrigaLight-Regular') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+/* === Panton === */
+
+@font-face {
+    font-family: 'Panton';
+    src: url('../fonts/Panton/Panton-Regular.eot');
+    src: url('../fonts/Panton/Panton-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Panton/Panton-Regular.woff2') format('woff2'),
+    url('../fonts/Panton/Panton-Regular.woff') format('woff'),
+    url('../fonts/Panton/Panton-Regular.ttf') format('truetype'),
+    url('../fonts/Panton/Panton-Regular.svg#Panton-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Panton';
+    src: url('../fonts/Panton/Panton-Bold.eot');
+    src: url('../fonts/Panton/Panton-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Panton/Panton-Bold.woff2') format('woff2'),
+    url('../fonts/Panton/Panton-Bold.woff') format('woff'),
+    url('../fonts/Panton/Panton-Bold.ttf') format('truetype'),
+    url('../fonts/Panton/Panton-Bold.svg#Panton-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+

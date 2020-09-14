@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1342px" height="348px" viewBox="0 0 1342 348" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Mask</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#00428D" offset="0%"></stop>
+            <stop stop-color="#001F55" offset="86.6351636%"></stop>
+            <stop stop-color="#001F54" offset="100%"></stop>
+        </linearGradient>
+        <path d="M2335.73029,1590.35266 L1883.6181,733.756708 C1677.89188,312.44944 1414.74788,612.973458 991.008298,897.423962 L440.452141,1266.99459 C16.6695609,1551.45231 181.900907,1894.01093 809.555352,2032.11601 L1638.80268,2214.57606 C2266.40875,2352.68114 2541.47801,2011.65271 2335.73029,1590.35266 Z" id="path-2"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage-03" transform="translate(0.000000, -5846.000000)">
+            <g id="FOOTER" transform="translate(-1099.000000, 5289.000000)">
+                <g id="glox" transform="translate(0.857194, 0.837159)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Mask" fill="url(#linearGradient-1)" fill-rule="nonzero" transform="translate(1304.293304, 1385.350233) rotate(-59.000000) translate(-1304.293304, -1385.350233) " xlink:href="#path-2"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
