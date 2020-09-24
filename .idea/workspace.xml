@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7804c09-3929-4332-97c7-46d317e3bebc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Standpoint.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mq.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mq.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/standpoint.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/standpoint.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/circlecheck.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/circlecheck.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/footer_itself.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/footer_itself_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/footer_itself_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/line.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/line.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/shape_equipment.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/shape_equipment.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/shape_header.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/shape_header.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/shape_services.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/shape_services.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/shape_works.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/shape_works.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/spheroid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/standpoint.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/standpoint.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hSDhF8WCPkOD3KqM2u1M9t3oE8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7804c09-3929-4332-97c7-46d317e3bebc" name="Default Changelist" comment="" />
+      <created>1599995717650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599995717650</updated>
+      <workItem from="1599995719069" duration="39994000" />
+      <workItem from="1600111243163" duration="2436000" />
+      <workItem from="1600181786851" duration="612000" />
+      <workItem from="1600252883670" duration="2597000" />
+      <workItem from="1600772855993" duration="5492000" />
+    </task>
+    <task id="LOCAL-00001" summary="Project Complete">
+      <created>1600110312250</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600110312250</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Project Complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project Complete" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="101" key="#Deployment" timestamp="1600110122363">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="320" y="101" key="#Deployment/0.23.1440.826@0.23.1440.826" timestamp="1600110122363" />
+    <state x="304" y="88" key="#SSH_Configurations" timestamp="1600110062933">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="304" y="88" key="#SSH_Configurations/0.23.1440.826@0.23.1440.826" timestamp="1600110062933" />
+    <state x="265" y="23" key="CommitChangelistDialog2" timestamp="1600110311923">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="265" y="23" key="CommitChangelistDialog2/0.23.1440.826@0.23.1440.826" timestamp="1600110311923" />
+    <state x="611" y="173" key="ftp.server.browser" timestamp="1600110113057">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="611" y="173" key="ftp.server.browser/0.23.1440.826@0.23.1440.826" timestamp="1600110113057" />
+  </component>
+</project>

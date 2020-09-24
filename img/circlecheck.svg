@@ -2,13 +2,13 @@
 <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>circlecheck</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Homepage-03" transform="translate(-240.000000, -2658.000000)" fill="#001F54">
-            <g id="EQUIPMENT" transform="translate(0.000000, 2322.000000)">
+        <g id="Homepage-03" transform="translate(-240.000000, -2605.000000)">
+            <g id="EQUIPMENT" transform="translate(0.000000, 2269.000000)">
                 <g id="3-lists" transform="translate(240.000000, 294.000000)">
                     <g id="item+check" transform="translate(0.000000, 38.000000)">
                         <g id="circlecheck" transform="translate(0.000000, 4.000000)">
-                            <circle id="Oval" cx="8" cy="8" r="4"></circle>
-                            <circle id="Oval" opacity="0.225725446" cx="8" cy="8" r="8"></circle>
+                            <circle id="Oval" fill="#28293E" cx="8" cy="8" r="4"></circle>
+                            <circle id="Oval" fill="#585A89" opacity="0.225725446" cx="8" cy="8" r="8"></circle>
                         </g>
                     </g>
                 </g>

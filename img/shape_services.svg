@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1177px" height="791px" viewBox="0 0 1177 791" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1326px" height="792px" viewBox="0 0 1326 792" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>Path</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.04">
-        <g id="Homepage-03" transform="translate(0.000000, -1487.000000)" fill="#001F54" fill-rule="nonzero">
+        <g id="Homepage-03" transform="translate(-41.000000, -1487.000000)" fill="#001F54" fill-rule="nonzero">
             <g id="bgd" transform="translate(0.000000, 1310.000000)">
-                <path d="M758.831064,678.329572 L686.924209,138.274472 C632.507482,-270.518719 497.511345,-378.140462 385.427814,-102.138983 L239.799978,256.454299 C127.705073,532.46278 171.410485,864.846389 337.43162,998.849339 L556.776173,1175.88978 C722.784513,1309.89274 813.253478,1087.11576 758.831064,678.329572 Z" id="Path" transform="translate(476.155668, 479.852326) scale(-1, -1) rotate(-112.000000) translate(-476.155668, -479.852326) "></path>
+                <path d="M948.831064,678.329572 L876.924209,138.274472 C822.507482,-270.518719 687.511345,-378.140462 575.427814,-102.138983 L429.799978,256.454299 C317.705073,532.46278 361.410485,864.846389 527.43162,998.849339 L746.776173,1175.88978 C912.784513,1309.89274 1003.25348,1087.11576 948.831064,678.329572 Z" id="Path" transform="translate(666.155668, 479.852326) scale(-1, -1) rotate(-112.000000) translate(-666.155668, -479.852326) "></path>
             </g>
         </g>
     </g>

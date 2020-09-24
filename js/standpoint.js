@@ -1,10 +1,5 @@
 $(document).ready(function(){
 
-    // Animating the standard hamburger-menu
-    $(".navbar-toggle").on("click", function () {
-        $(this).toggleClass("active");
-    });
-
     // Animating the "go-to" anchor scroll
     $('a.anchor').click(function(){
         $('html, body').animate({
@@ -22,12 +17,12 @@ $(document).ready(function(){
     ScrollReveal().reveal('.work_outerbox', {delay: 300});
     ScrollReveal().reveal('.contact_form_holder', {delay: 300});
 
-
-
-
-
-
-
+    // Water ripple effect when hovering over the 'Sphere' shape
+    // $('.sphere').ripples({
+    //     resolution: 512,
+    //     dropRadius: 10,
+    //     perturbance: 0.04,
+    // });
 
 
 });

@@ -88,7 +88,7 @@
     .h_banner h1 {font-size: 4.4rem; text-align: center;}
     .h_banner_holder {width: 91%; margin: 0 auto; left: 0; right: 0;}
     a.main_cta_btn {margin: 0 auto;}
-    .sphere {opacity: 0.3; right: 0; left: 0;}
+    .sphere {opacity: 0.7; right: 0; left: 0;}
 
     .garry {right: 0;}
 
@@ -110,6 +110,10 @@
     .header_shape {top: -33%;}
 
     .garry {height: 250px;}
+
+    .header_shape {top: -29%;}
+    .h_banner_holder {top: 40%;}
+    .sphere {top: 26%;}
 }
 
 @media screen and (max-width: 400px){

@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="872px" height="721px" viewBox="0 0 872 721" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1082px" height="1375px" viewBox="0 0 1082 1375" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>Path</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.0508085664">
-        <g id="Homepage-03" transform="translate(-568.000000, 0.000000)" fill="#001F54" fill-rule="nonzero">
-            <g id="HEADER" transform="translate(0.000000, -654.000000)">
-                <g id="h-banner" transform="translate(97.000000, 0.000000)">
-                    <path d="M1523.68606,873.432424 L1393.48287,368.646228 C1294.94939,-13.4502642 1050.50915,-114.043649 847.557231,143.933244 L583.865957,479.108189 C380.893441,737.091627 460.031715,1047.76855 760.64955,1173.02029 L1157.82118,1338.49891 C1458.41584,1463.75065 1622.22983,1255.52237 1523.68606,873.432424 Z" id="Path"></path>
-                </g>
+        <g id="Homepage-03" transform="translate(-238.000000, -24.000000)" fill="#001F54" fill-rule="nonzero">
+            <g id="h-banner" transform="translate(97.000000, 9.000000)">
+                <path d="M1193.68606,888.432424 L1063.48287,383.646228 C964.949393,1.54973584 720.509152,-99.0436486 517.557231,158.933244 L253.865957,494.108189 C50.8934405,752.091627 130.031715,1062.76855 430.64955,1188.02029 L827.821178,1353.49891 C1128.41584,1478.75065 1292.22983,1270.52237 1193.68606,888.432424 Z" id="Path"></path>
             </g>
         </g>
     </g>
