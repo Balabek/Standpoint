@@ -28,7 +28,9 @@
 
 
 
-
+@media screen and (min-width: 1900px){
+    .h_banner_holder {width: 45rem;}
+}
 
 @media screen and (max-width: 1356px){
     .h_banner h1 {font-size: 6rem;}
@@ -51,7 +53,7 @@
 }
 
 @media screen and (max-width: 883px){
-    .header_shape {top: -20%;}
+    .header_shape {top: -69rem;}
     .sphere {height: 355px;}
     .standpoint_header {min-height: 600px;}
 }
@@ -72,6 +74,8 @@
     .section_center_text {width: 95%;}
 
     .equipment_list_holder {width: 50%; margin: 0 auto;}
+
+    a.stnd_menu_link:after {height: 1px;}
 }
 
 @media screen and (max-width: 710px){
@@ -107,11 +111,10 @@
 @media screen and (max-width: 460px){
     .h_banner_holder {width: 94%;}
     .h_banner h1 {font-size: 3.6rem;}
-    .header_shape {top: -33%;}
+    .header_shape {top: -69rem;}
 
     .garry {height: 250px;}
 
-    .header_shape {top: -29%;}
     .h_banner_holder {top: 40%;}
     .sphere {top: 26%;}
 }

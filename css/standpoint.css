@@ -105,6 +105,12 @@ input:disabled, input[disabled] {
 
 /* =========== NAVBAR =========== */
 
+img.main_logo {
+    position: relative;
+    width: 7rem;
+    top: 2px;
+}
+
 .standpoint_navbar {
     position: absolute;
     z-index: 2;
@@ -142,7 +148,7 @@ a.stnd_menu_link:after {
     margin: 0 auto;
     width: 96%;
     height: 2px;
-    background: #28293E;
+    background: #8D99AE;
     content: '';
     opacity: 0;
     -webkit-transition: opacity 0.3s, -webkit-transform 0.3s;
@@ -188,7 +194,7 @@ a.stnd_menu_link:hover::after, a.stnd_menu_link:focus::after {
 .h_banner_holder {
     position: absolute;
     top: 33%;
-    width: 45%;
+    width: 45rem;
 }
 
 .h_banner h1 {
@@ -468,8 +474,8 @@ ul.about_socials li a:hover:before {
 }
 
 .s_two {
-    background: rgb(194,209,214);
-    background: linear-gradient(180deg, rgba(194,209,214,1) 0%, rgba(141,153,174,1) 100%, rgba(255,255,255,1) 150%);
+    background: rgb(205,219,223);
+    background: linear-gradient(180deg, rgba(205,219,223,1) 0%, rgba(141,153,174,1) 100%, rgba(255,255,255,1) 150%);
 }
 
 .s_three {
@@ -639,6 +645,10 @@ ul.eq_list li::before {
     background-size: contain;
 }
 
+.soundcloud_thumb {
+    border-radius: 8px;
+}
+
 
 
 
@@ -758,23 +768,17 @@ button.submit_btn:focus {
 
 /* =========== FOOTER =========== */
 
-.footer_wrapper {
-    min-height: 100%;
-    height: 200px;
-    position: relative;
-}
-
 .standpoint_footer {
     position: absolute;
-    flex: 1 0 auto;
     z-index: 5;
     right: 0;
     bottom: 0;
     left: 0;
     width: 100%;
-    height: 375px;
+    min-height: 375px;
+    height: auto;
 
-    background: url("../img/footer_itself_2.png") center center no-repeat;
+    background: url("../img/footer_itself_2.png") no-repeat;
     background-size: cover;
 }
 
